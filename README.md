@@ -85,6 +85,12 @@ Each card shows the book cover, title, authors, publication year, and supports a
 
   * Add to Favorites
   * Save for Later
+<img width="1920" height="809" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/6edc1827-c6e8-426e-96e0-34975b1d9f31" />
+<img width="1920" height="830" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/b7ac4c6c-d7f5-4964-9745-90e6c08ddc8e" />
+<img width="1920" height="812" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/24b50dfc-a7be-4702-8ee3-5a69bf486cfc" />
+<img width="1920" height="827" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/73debb6f-c24e-43d6-a21b-36dcd7939436" />
+<img width="1920" height="827" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/f8f3763b-ecd2-449b-a0a6-87feaa609ef1" />
+<img width="1920" height="811" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/40b27eb0-a2d3-4798-8d19-8f0183e5051d" />
 
 The Favorites and Save-for-Later shelves update instantly and persist across sessions. The result is a smooth, engaging discovery experience that feels like having an intelligent librarian curate books just for you.
 
